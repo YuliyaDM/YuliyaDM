@@ -94,3 +94,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 > Also learning __*some new language*__ 👀
 
 ![toby_fox](https://static.wikia.nocookie.net/debatesjungle/images/c/c1/1z4FBfS.gif/revision/latest/scale-to-width-down/300?cb=20181204013628)
+
+### Statictics
+
+![commit statistics](./metrics.plugin.isocalendar.fullyear.svg)
