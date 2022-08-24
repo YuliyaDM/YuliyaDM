@@ -40,33 +40,6 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ***
 
-## Social networks 📱
-
-<a href='https://discord.com'>
-<img src='https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white' />
-</a>
-
-
-<a href='https://telegram.com'>
-<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />
-</a>
-
-
-<a href='https://twitter.com'>
-<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' />
-</a>
-
-
-<a href='https://gmail.com'>
-<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
-</a>
-
-
-
-<a href='https://youtube.com'>
-<img src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white' />
-</a>
-
 ## Github 🖥
 
 ### Stats 🤓
@@ -89,14 +62,41 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
 </a>
 
+### Statictics
+
+![commit statistics](./metrics.plugin.isocalendar.fullyear.svg)
+
+![github metrics](github-metrics.svg)
+
 ## Other information 
 
 > Also learning __*some new language*__ 👀
 
 ![toby_fox](https://static.wikia.nocookie.net/debatesjungle/images/c/c1/1z4FBfS.gif/revision/latest/scale-to-width-down/300?cb=20181204013628)
 
-### Statictics
+---
 
-![commit statistics](./metrics.plugin.isocalendar.fullyear.svg)
+## Social networks 📱
 
-![github metrics](github-metrics.svg)
+<a href='https://discord.com'>
+<img src='https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white' />
+</a>
+
+
+<a href='https://telegram.com'>
+<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />
+</a>
+
+
+<a href='https://twitter.com'>
+<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' />
+</a>
+
+
+<a href='https://gmail.com'>
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+</a>
+
+<a href='https://youtube.com'>
+<img src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white' />
+</a>
