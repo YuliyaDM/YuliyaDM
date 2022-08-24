@@ -42,29 +42,31 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## Github 🖥
 
+  ### Languages
+
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
   </a>
 
-  ###
+  ### Readme
 
   <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
   </a>
   
-  ###
+  ### Stats
   
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=default'/>
   </a>
 
-  ###
+  ### Streaks
 
   <a href='#'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=FFFFFF' />
   </a>
 
-### Statictics
+## Statictics
 
 <div style='display: flex; justify-content: space-between'>
   <img src='./metrics.plugin.isocalendar.fullyear.svg' />
