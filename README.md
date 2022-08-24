@@ -46,13 +46,19 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
   </a>
 
+  ###
+
   <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
   </a>
   
+  ###
+  
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=default'/>
   </a>
+
+  ###
 
   <a href='#'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=FFFFFF' />
