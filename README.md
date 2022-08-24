@@ -19,6 +19,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 * ``React``
 * ``Git``
 * ``Node.js``
+* ``TypeScript``
 
 ### Libraries 🍫
 
@@ -36,7 +37,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 | --- |
 | `SCSS` |
 | `Stylus` |
-| `TypeScript` |
+| `React` |
 
 ***
 
