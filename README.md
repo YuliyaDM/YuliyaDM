@@ -42,7 +42,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## Github 🖥
 
-<div style='display: flex; width: 100%; justify-content: space-between;'>
+<div style=''>
   
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
