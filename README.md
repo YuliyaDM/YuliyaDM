@@ -98,3 +98,5 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 ### Statictics
 
 ![commit statistics](./metrics.plugin.isocalendar.fullyear.svg)
+
+![github metrics](github-metrics.svg)
