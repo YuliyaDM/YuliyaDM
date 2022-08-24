@@ -64,9 +64,10 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ### Statictics
 
-![commit statistics](./metrics.plugin.isocalendar.fullyear.svg)
-
-![github metrics](github-metrics.svg)
+<div style='display: flex; justify-content: space-between'>
+  <img src='./metrics.plugin.isocalendar.fullyear.svg' />
+  <img src='github-metrics.svg' />
+</div>
 
 ## Other information 
 
