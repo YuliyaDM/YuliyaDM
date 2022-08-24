@@ -42,8 +42,6 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## Github 🖥
 
-<div style=''>
-  
   <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
   </a>
@@ -59,8 +57,6 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
   <a href='#'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=FFFFFF' />
   </a>
-  
-</div>
 
 ### Statictics
 
