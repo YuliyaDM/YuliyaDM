@@ -42,25 +42,25 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## Github 🖥
 
-### Stats 🤓
+<div style='display: flex; width: 100%; justify-content: space-between;'>
+  
+  <a href='#'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
+  </a>
 
-![icon](https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=default)
+  <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
+  </a>
+  
+  <a href='#'>
+    <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=default'/>
+  </a>
 
-### Languages what I use 💻
-
-![icon](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact)
-
-### Streak 🎃
-
-<a href='#'>
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=FFFFFF' />
-</a>
-
-### Link on readme-file 📄
-
-<a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
-</a>
+  <a href='#'>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=FFFFFF' />
+  </a>
+  
+</div>
 
 ### Statictics
 
