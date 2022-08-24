@@ -44,12 +44,12 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 <div style=''>
   
-  <a href='#'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
-  </a>
-
   <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
+  </a>
+  
+  <a href='#'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
   </a>
   
   <a href='#'>
