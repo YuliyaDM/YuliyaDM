@@ -117,3 +117,8 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
     <img src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white' />
   </a>
 </div>
+
+### Tasks
+
+- [x] write resume
+- [ ] make it better
