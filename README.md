@@ -6,11 +6,11 @@
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/YuliyaDM/YuliyaDM" />
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM" />
 
-**Hello, guys! 🖐**
+**Hello, guys!**
 
 _I am Julia Pirogova, student, who loves **frontend** and have a couple of projects._
 
-## What techonologies do I know? 🍰
+## What techonologies do I know?
 
 ### Main 
 
@@ -50,7 +50,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
   ###
 
   <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM&theme=nord&hide_border=true&text_bold=true' />
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM&theme=nord&hide_border=true&text_bold=true&show_owner=true' />
   </a>
   
   ###
@@ -71,10 +71,6 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
   <img src='./metrics.plugin.isocalendar.fullyear.svg' />
   <img src='./github-metrics.svg' />
 </div>
-
-## Diff history
-
-<img src='./metrics.plugin.lines.history.svg' />
 
 ## Other information 
 
