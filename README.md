@@ -1,10 +1,10 @@
 # YuliyaDM ![icon1](https://img.shields.io/badge/-frontender-blue?style=flat-square) ![icon](https://img.shields.io/badge/name-Julia_Pirogova-green?style=flat-square) ![icon](https://img.shields.io/badge/age-13-yellow?style=flat-square) 
 
-![icon](https://visitor-badge.glitch.me/badge?page_id=YuliyaDM.visitor-badge) 
-<img alt="" src="https://img.shields.io/github/repo-size/YuliyaDM/YuliyaDM" /> 
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuliyaDM/YuliyaDM" /> 
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/YuliyaDM/YuliyaDM" />
-<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM" />
+![icon](https://visitor-badge.glitch.me/badge?page_id=YuliyaDM.visitor-badge?style=flat-square) 
+<img alt="" src="https://img.shields.io/github/repo-size/YuliyaDM/YuliyaDM?style=flat-square" /> 
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuliyaDM/YuliyaDM?style=flat-square" /> 
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/YuliyaDM/YuliyaDM?style=flat-square" />
+<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM?style=flat-square" />
 
 **Hello, guys!**
 
