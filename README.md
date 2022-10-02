@@ -1,13 +1,7 @@
 # YuliyaDM ![icon1](https://img.shields.io/badge/-frontender-blue?style=flat-square) ![icon](https://img.shields.io/badge/name-Julia_Pirogova-green?style=flat-square) ![icon](https://img.shields.io/badge/age-13-yellow?style=flat-square) 
-
-<img alt="" src="https://img.shields.io/github/repo-size/YuliyaDM/YuliyaDM?style=flat-square" /> 
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuliyaDM/YuliyaDM?style=flat-square" /> 
+<img alt="" src="https://img.shields.io/github/repo-size/YuliyaDM/YuliyaDM?style=flat-square" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuliyaDM/YuliyaDM?style=flat-square" /> 
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/YuliyaDM/YuliyaDM?style=flat-square" />
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM?style=flat-square" />
-
-**Hello, guys!**
-
-_I am Julia Pirogova, student, who loves **frontend** and have a couple of projects._
 
 ## What techonologies do I know?
 
@@ -45,12 +39,6 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
   </a>
-
-  ###
-
-  <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM&theme=nord&hide_border=true&text_bold=true&show_owner=true' />
-  </a>
   
   ###
   
@@ -73,11 +61,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## Other information 
 
-> Also learning __*some new language*__ 👀
-
-![toby_fox](https://static.wikia.nocookie.net/debatesjungle/images/c/c1/1z4FBfS.gif/revision/latest/scale-to-width-down/300?cb=20181204013628)
-
----
+> Also learning __*some new language*__
 
 ## Social networks 
 
