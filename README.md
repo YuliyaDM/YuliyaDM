@@ -74,9 +74,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## Diff history
 
-<div>
-  <img src='./metrics.plugin.lines.history.svg' />
-</div>
+<img src='./metrics.plugin.lines.history.svg' />
 
 ## Other information 
 
