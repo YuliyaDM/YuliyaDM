@@ -12,16 +12,16 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ## What techonologies do I know? 🍰
 
-### Main ☕
+### Main 
 
-* ``HTML/CSS/JS`` 
+* ``HTML/CSS/JS``
 * ``Canvas``
 * ``React``
 * ``Git``
 * ``Node.js``
 * ``TypeScript``
 
-### Libraries 🍫
+### Libraries 
 
 | Libraries |
 | --- |         
@@ -31,7 +31,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 | `atropos.js` |
 | `parallax.js` |
 
-### Frameworks 🥦
+### Frameworks 
 
 | Frameworks |
 | --- |
@@ -41,28 +41,28 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ***
 
-## Github 🖥
+## Github 
 
   <a href='#'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
   </a>
 
   ###
 
   <a href='https://github.com/YuliyaDM/YuliyaDM/edit/main/README.md'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM' />
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=YuliyaDM&repo=YuliyaDM&theme=nord&hide_border=true&text_bold=true' />
   </a>
   
   ###
   
   <a href='#'>
-    <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=default'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=nord&hide_border=true&text_bold=true'/>
   </a>
 
   ###
 
   <a href='#'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=FFFFFF' />
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=2e3440&color=e4e2e2' />
   </a>
 
 ## Statictics
@@ -86,7 +86,7 @@ _I am Julia Pirogova, student, who loves **frontend** and have a couple of proje
 
 ---
 
-## Social networks 📱
+## Social networks 
 
 <div>
    <a href='https://discord.com'>
