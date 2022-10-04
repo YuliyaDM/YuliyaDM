@@ -35,7 +35,7 @@
 
 ***
 
-## Github 
+## <p align="center">Github</p>
 
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
@@ -53,18 +53,18 @@
     <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=2e3440&color=e4e2e2' />
   </a>
 
-## Statictics
+## <p align="center">Statictics</p>
 
 <div style='display: flex; justify-content: space-between'>
   <img src='./metrics.plugin.isocalendar.fullyear.svg' />
   <img src='./github-metrics.svg' />
 </div>
 
-## Other information 
+## <p align="center">Other information</p> 
 
 > Also learning __*some new language*__
 
-## Social networks 
+## <p align="center">Social networks</p> 
 
 <div>
    <a href='https://discord.com'>
