@@ -4,8 +4,6 @@
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM?style=flat-square" />
 </p>
 
----
-
 ## <p align="center">What techonologies do I know?</p>
 
 ### Main
