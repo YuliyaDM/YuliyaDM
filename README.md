@@ -1,11 +1,12 @@
-# YuliyaDM ![icon1](https://img.shields.io/badge/-frontender-blue?style=flat-square) ![icon](https://img.shields.io/badge/name-Julia_Pirogova-green?style=flat-square) ![icon](https://img.shields.io/badge/age-13-yellow?style=flat-square) 
-<img alt="" src="https://img.shields.io/github/repo-size/YuliyaDM/YuliyaDM?style=flat-square" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuliyaDM/YuliyaDM?style=flat-square" /> 
+# <p align="center">YuliyaDM ![icon1](https://img.shields.io/badge/-frontender-blue?style=flat-square) ![icon](https://img.shields.io/badge/name-Julia_Pirogova-green?style=flat-square) ![icon](https://img.shields.io/badge/age-13-yellow?style=flat-square) </p>
+<p align="center"><img alt="" src="https://img.shields.io/github/repo-size/YuliyaDM/YuliyaDM?style=flat-square" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuliyaDM/YuliyaDM?style=flat-square" /> 
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/YuliyaDM/YuliyaDM?style=flat-square" />
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM?style=flat-square" />
+</p>
 
-## What techonologies do I know?
+## <p align="center">What techonologies do I know?</p>
 
-### Main 
+### Main
 
 * ``HTML/CSS/JS``
 * ``Canvas``
