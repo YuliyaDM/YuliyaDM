@@ -59,10 +59,10 @@
 
 <br>
 
-<div style='display: flex; justify-content: space-between'>
+<p align="center">
   <img src='./metrics.plugin.isocalendar.fullyear.svg' />
   <img src='./github-metrics.svg' />
-</div>
+</p>
 
 > Also learning __*some new language*__
 
