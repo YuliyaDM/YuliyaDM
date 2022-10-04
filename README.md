@@ -37,21 +37,27 @@
 
 <br>
 
-  <a href='#'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
-  </a>
+  <p align="center">
+    <a href='#'>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
+    </a>
+  </p>
   
   ###
   
-  <a href='#'>
-    <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=nord&hide_border=true&text_bold=true'/>
-  </a>
+  <p align="center">
+    <a href='#'>
+      <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=nord&hide_border=true&text_bold=true'/>
+    </a>
+  </p>
 
   ###
 
-  <a href='#'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=2e3440&color=e4e2e2' />
-  </a>
+  <p align="center">
+    <a href='#'>
+      <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=2e3440&color=e4e2e2' />
+    </a>
+  </p>
   
 <br>
 
