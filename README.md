@@ -25,7 +25,7 @@
 | `atropos.js` |
 | `parallax.js` |
 
-### Frameworks 
+### Frameworks  
 
 | Frameworks |
 | --- |
