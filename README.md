@@ -4,6 +4,8 @@
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/YuliyaDM/YuliyaDM?style=flat-square" />
 </p>
 
+---
+
 ## <p align="center">What techonologies do I know?</p>
 
 ### Main
@@ -33,9 +35,9 @@
 | `Stylus` |
 | `React` |
 
-***
-
 ## <p align="center">Github</p>
+
+<br>
 
   <a href='#'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
@@ -52,19 +54,25 @@
   <a href='#'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=YuliyaDM&theme=holi-theme&hide_border=true&background=2e3440&color=e4e2e2' />
   </a>
+  
+<br>
 
 ## <p align="center">Statictics</p>
+
+<br>
 
 <div style='display: flex; justify-content: space-between'>
   <img src='./metrics.plugin.isocalendar.fullyear.svg' />
   <img src='./github-metrics.svg' />
 </div>
 
-## <p align="center">Other information</p> 
-
 > Also learning __*some new language*__
 
+<br>
+
 ## <p align="center">Social networks</p> 
+
+<br>
 
 <div>
    <a href='https://discord.com'>
@@ -96,7 +104,11 @@
   </a>
 </div>
 
+<br>
+
 ### Tasks
+
+<br>
 
 - [x] write resume
 - [ ] make it better
