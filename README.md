@@ -14,6 +14,7 @@
 * ``Git``
 * ``Node.js``
 * ``TypeScript``
+* ``Telegram bots``
 
 ### Libraries 
 
