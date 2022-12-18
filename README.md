@@ -34,7 +34,7 @@
 | `Stylus` |
 | `React` |
 
-## <p align="center">Github</p>
+## <p align="center">Github</p>    
 
 <br>
 
