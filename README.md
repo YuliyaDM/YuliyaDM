@@ -16,22 +16,11 @@
 * ``TypeScript``
 * ``Telegram bots``
 
-### Libraries 
-
-| Libraries |
-| --- |         
-| `confetti.js` |    
-| `scroll-reveal.js` |
-| `tiny-slider.js` | 
-| `atropos.js` |
-| `parallax.js` |
-
 ### Frameworks  
 
 | Frameworks |
 | --- |
 | `SCSS` |
-| `Stylus` |
 | `React` |
 
 ## <p align="center">Github</p>    
