@@ -26,6 +26,7 @@
 ## <p align="center">Github</p>    
 
 <br>
+    <p align='center'>
     <a href='#'>
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaDM&layout=compact&theme=nord&hide_border=true&text_bold=true' />
     </a>
@@ -33,6 +34,7 @@
    <a href='#'>
       <img src='https://github-readme-stats.vercel.app/api?username=YuliyaDM&show_icons=true&theme=nord&hide_border=true&text_bold=true'/>
     </a>
+    </p>
  
 
    <a href='#'>
