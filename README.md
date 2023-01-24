@@ -60,12 +60,8 @@
    <a href='https://discord.com'>
     <img src='https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white' />
   </a>
-
-  <a href='https://viber.web'>
-    <img src='https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white' />
-  </a>
   
-  <a href='https://telegram.com'>
+  <a href='https://t.me/ju_par'>
     <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />
   </a>
 
@@ -75,10 +71,6 @@
   
   <a href='https://twitter.com'>
     <img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' />
-  </a>
-
-  <a href='https://youtube.com'>
-    <img src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white' />
   </a>
 </p>
 
