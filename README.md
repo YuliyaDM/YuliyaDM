@@ -80,3 +80,5 @@
 `08.19.2023` 
 
 <strong>I have stopped coding since Frebruary.</strong>
+
+Currently I am going to work with 3d printing. Probably, I will share with you some models which seems to me pretty nice artworks.
