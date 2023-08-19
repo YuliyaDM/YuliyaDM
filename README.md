@@ -79,4 +79,4 @@
 
 `08.19.2023` 
 
-I have stopped coding since Frebruary. 
+<strong>I have stopped coding since Frebruary.</strong>
