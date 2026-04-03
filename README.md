@@ -51,34 +51,3 @@
 </p>
 
 <br>
-
-## <p align="center">Social networks</p> 
-
-<br>
-
-<p align='center'>
-   <a href='https://discord.com'>
-    <img src='https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white' />
-  </a>
-  
-  <a href='https://t.me/ju_par'>
-    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />
-  </a>
-
-  <a href='mailto:juliapirogova03@gmail.com'>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
-  </a>
-  
-  <a href='https://twitter.com/JuliaPirogova3'>
-    <img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' />
-  </a>
-</p>
-
-<br>
-
-
-`08.19.2023` 
-
-<strong>I have stopped coding since Frebruary.</strong>
-
-Currently I am going to work with 3d printing. Probably, I will share with you some models which seems to me pretty nice artworks.
